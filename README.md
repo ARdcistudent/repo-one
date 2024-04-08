@@ -3,3 +3,4 @@
 - git add .
 - git commit -m "TEXT"
 - git push
+- git pull
